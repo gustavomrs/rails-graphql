@@ -10,7 +10,7 @@ $ bundle install
 
 
 ```
-$ rails db:create db:create db:migrate db:seed
+$ rails db:create db:migrate db:seed
 ```
 
 ## Getting Started
